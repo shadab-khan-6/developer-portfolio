@@ -1,6 +1,7 @@
 # Security Policy
 
-Scaffolded by Safeguard auto-remediation to close compliance gaps for **shadab-khan-6/developer-portfolio**.
+This policy was scaffolded by Safeguard auto-remediation to close compliance gaps
+for **shadab-khan-6/developer-portfolio**.
 
 ## Reporting a Vulnerability
 
@@ -11,4 +12,4 @@ reports within 3 business days.
 
 | Version | Supported |
 | ------- | --------- |
-| latest  | yes       |
+| latest  | ✅        |
