@@ -1,6 +1,6 @@
 # Security Policy
 
-Scaffolded by Safeguard auto-remediation to close compliance gaps for **developer-portfolio**.
+Scaffolded by Safeguard auto-remediation to close compliance gaps for **shadab-khan-6/developer-portfolio**.
 
 ## Reporting a Vulnerability
 
