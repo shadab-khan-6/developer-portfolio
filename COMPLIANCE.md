@@ -1,6 +1,6 @@
 # Compliance
 
-Framework gaps identified for **developer-portfolio** (close each and check it off):
+Framework gaps identified for **shadab-khan-6/developer-portfolio** (close each and check it off):
 
 - [ ] License Compliance
 - [ ] Code Provenance
